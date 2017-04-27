@@ -10,5 +10,25 @@
     "clean": "bash 'sh/clean.sh'",
     "fix": "bash 'sh/fix.sh'",
     "test": "bash 'sh/test.sh'"
-  }
+  },
+  "name": "sync-fstree",
+  "description": "Just traverse directory tree synchronously",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksxnodemodules/sync-fstree.git"
+  },
+  "keywords": [
+    "simple",
+    "traverse",
+    "tree",
+    "directory-tree"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksxnodemodules/sync-fstree/issues"
+  },
+  "homepage": "https://github.com/ksxnodemodules/sync-fstree#readme"
 }
