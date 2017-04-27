@@ -1,6 +1,7 @@
 {
   "version": "0.0.1",
   "main": "index.js",
+  "bin": "bin.js",
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
   "devDependencies": {
     "standard": "10.0.2"
